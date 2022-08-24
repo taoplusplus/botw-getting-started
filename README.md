@@ -24,7 +24,7 @@ See *Highlighted Resources* in the #resources channel for more in-depth guides.
 
 ## Step 4: Learn the Great Plateau
 
-Every category starts on the Great Plateau. Learning how the speedrun up to obtaining the Paraglider is a great first goal. We usually recommend new runners aim for a Great Plateau time around 20 minutes before moving on. Here are two tutorials to get started:
+Every category starts on the Great Plateau. Learning how to quickly complete the first four shrines and get the paraglider is a great first goal. We usually recommend new runners aim for a Great Plateau time around 20 minutes before moving on. Here are two tutorials to get started:
 * How to Speedrun Breath of the Wild’s Great Plateau (Beginner Tutorial) https://youtu.be/r5utB87iQ_Y
 * 2022 BOTW Any% Tutorial Series http://bombch.us/DWNF
 
