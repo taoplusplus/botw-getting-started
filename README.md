@@ -20,7 +20,7 @@ Also look for community members who stream their attempts by looking in #streams
 
 Windbombs and Bow Lift Smuggle Slide (BLSS) are the primary movement techniques in every category. To get started learning windbombs, check out Vivoxe's tutorials at http://bombch.us/DWK5. To get started with BLSS, check out Kleric's tutorial at https://youtu.be/F1gUS5kVEXA.
 
-See *Highlighted Resources* in the #resources channel for more in-depth guides.
+See *Highlighted Resources* in the #resources channel for more in-depth guides. And information that's important to each category is in the pins of their respective channels.
 
 ## Step 4: Learn the Great Plateau
 
