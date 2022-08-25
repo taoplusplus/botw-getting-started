@@ -33,3 +33,5 @@ Will there ever be a way to skip the Great Plateau? Probably not: https://youtu.
 ## Step 5: Ask Questions
 
 A lot of community members are happy to answer questions about anything, no matter how small. You can post questions or gameplay in the appropriate category channel (like #great-plateau or #any-percent). If you don't know where a question should go, feel free to use #general-help.
+
+One of the best ways to get advice on your play is to share a game recording. You can capture 30 seconds of gameplay on the Switch and share it via a file download or a Twitter account: http://bombch.us/DWKx. If you are uploading a video, https://8mb.video/ can help get around Discord's 8 mb limit.
