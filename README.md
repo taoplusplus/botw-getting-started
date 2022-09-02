@@ -2,7 +2,7 @@
 
 ## Step 1: Finish Casual Play
 
-If you haven't completed the game casually now is your chance! This game is all about exploring and discovering things so don't spoil it and enjoy it while it lasts! If you're looking for a missing shrine, wondering what quests there are to do, or hunting for koroks and aren't yet worried about speed, Zelda Dungeon's walkthrough is a good place to go: https://www.zeldadungeon.net/breath-of-the-wild-walkthrough/
+Are you done exploring Breath of the Wild yet? We generally recommend players finish their casual experience before looking into speedrunning. If you're looking for a missing shrine, wondering what quests there are to do, or hunting for koroks and aren't yet worried about speed, Zelda Dungeon's walkthrough is a good place to go: https://www.zeldadungeon.net/breath-of-the-wild-walkthrough/
 
 
 ## Step 2: Watch Runs
@@ -21,6 +21,9 @@ Also look for community members who stream their attempts by looking in #streams
 Windbombs and Bow Lift Smuggle Slide (BLSS) are the primary movement techniques in every category. To get started learning windbombs, check out Vivoxe's tutorials at http://bombch.us/DWK5. To get started with BLSS, check out Kleric's tutorial at https://youtu.be/F1gUS5kVEXA.
 
 See *Highlighted Resources* in the #resources channel for more in-depth guides. And information that's important to each category is in the pins of their respective channels.
+
+We also have a #bug-limit categories that restrict the types of glitches runners can use.
+
 
 ## Step 4: Learn the Great Plateau
 
